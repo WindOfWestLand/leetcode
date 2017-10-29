@@ -1,9 +1,8 @@
 package binary;
 
-import binary.gradcode.GrayCode;
-import binary.gradcode.GrayCodeImpl;
-import binary.gradcode.GrayCodeMathSolution;
-import binary.gradcode.GrayCodeTest;
+import binary.graycode.GrayCodeImpl;
+import binary.graycode.GrayCodeMathSolution;
+import binary.graycode.GrayCodeTest;
 import org.junit.Assert;
 import org.junit.Test;
 

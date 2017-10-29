@@ -1,4 +1,4 @@
-package binary.gradcode;
+package binary.graycode;
 
 import java.util.ArrayList;
 import java.util.List;
